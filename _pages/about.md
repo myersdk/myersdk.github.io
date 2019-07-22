@@ -1,6 +1,6 @@
 ---
 title: "About"
-peremalink: /about/
+permalink: /about/
 ---
 
 I'm a data scientist who excels at data visualization, data exploration, and statistical learning.
