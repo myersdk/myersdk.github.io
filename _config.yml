@@ -120,7 +120,7 @@ author:
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
     - label: "Azure Notebooks"
-      iconL : "fab fa-fw fa-cloud"
+      iconL : "fab fa-fw fa-microsoft"
       url:  "https://notebooks.azure.com/myersdk"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
